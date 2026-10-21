@@ -1,0 +1,34 @@
+WEBSITE FOR MANG AYU ♡
+
+CARA MENJALANKAN
+1. Extract file ZIP ini ke folder yang mudah ditemukan, misalnya Desktop.
+2. Buka folder "for_mang_ayu".
+3. Klik dua kali file index.html. Website akan terbuka di browser.
+4. Tidak perlu install aplikasi tambahan.
+
+CARA MEMASUKKAN FOTO MANG AYU
+1. Siapkan foto milikmu yang ingin dipakai.
+2. Buka folder "foto" di dalam folder website.
+3. Masukkan tiga foto dan ubah nama file menjadi:
+   - ayu-1.jpg
+   - ayu-2.jpg
+   - ayu-3.jpg
+4. Kalau fotomu berformat PNG, kamu boleh mengubah nama file di HTML dari .jpg menjadi .png agar sesuai.
+5. Refresh website di browser.
+
+CARA MENAMBAHKAN MUSIK
+1. Pilih file audio yang boleh kamu gunakan.
+2. Masukkan ke folder "musik".
+3. Ubah nama file menjadi lagu.mp3.
+4. Buka ulang atau refresh website, lalu tekan tombol "Putar musik".
+5. Kalau file audio berformat selain MP3, ubah nilai src pada tag audio di index.html agar sesuai nama dan ekstensi file.
+
+CARA MENGUBAH PESAN
+- Buka index.html dengan Notepad atau Visual Studio Code.
+- Cari teks "Thanks yaaa Mang Ayuu for everything....:)" dan ubah sesuai pesanmu.
+- Simpan file, lalu refresh browser.
+
+CATATAN
+- Foto dan musik disimpan secara lokal di laptop, tidak otomatis diunggah ke internet.
+- Font online hanya akan tampil jika internet tersedia; tanpa internet, browser memakai font cadangan.
+- Jika ingin mengirim website ke orang lain, kirim folder hasil extract secara lengkap atau ZIP-nya.
